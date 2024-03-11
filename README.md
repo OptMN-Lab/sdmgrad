@@ -14,7 +14,7 @@ python -m pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113
 ```
 Then, install the repo:
 ```
-git clone https://github.com/ml-opt-lab/sdmgrad.git
+https://github.com/OptMN-Lab/sdmgrad.git
 cd sdmgrad
 python -m pip install -e .
 ```
