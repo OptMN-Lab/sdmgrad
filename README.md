@@ -3,7 +3,8 @@
 Official implementation of *Direction-oriented Multi-objective Learning: Simple and Provable Stochastic Algorithms*.
 
 ## Supervised Learning
-The expriments are conducted on Cityscapes and NYU-v2 datasets, which can be downloaded from [MTAN](https://github.com/lorenmt/mtan). Following [Nash-MTL](https://github.com/AvivNavon/nash-mtl) and [FAMO](https://github.com/Cranial-XIX/FAMO), the implementation is based on the `MTL` library.
+The expriments are conducted on Cityscapes and NYU-v2 datasets, which can be downloaded from [MTAN](https://github.com/lorenmt/mtan). (Update: For Cityscapes, please choose the smaller version provided in the original MTAN repo).
+Following [Nash-MTL](https://github.com/AvivNavon/nash-mtl) and [FAMO](https://github.com/Cranial-XIX/FAMO), the implementation is based on the `MTL` library.
 
 ### Setup Environment
 Create the environment:
